@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/match-up/static/css/main.34de6062.chunk.css",
+    "main.js": "/match-up/static/js/main.180bd80d.chunk.js",
+    "main.js.map": "/match-up/static/js/main.180bd80d.chunk.js.map",
+    "runtime-main.js": "/match-up/static/js/runtime-main.22c6b2e5.js",
+    "runtime-main.js.map": "/match-up/static/js/runtime-main.22c6b2e5.js.map",
+    "static/js/2.029dc657.chunk.js": "/match-up/static/js/2.029dc657.chunk.js",
+    "static/js/2.029dc657.chunk.js.map": "/match-up/static/js/2.029dc657.chunk.js.map",
+    "index.html": "/match-up/index.html",
+    "precache-manifest.11ea7f0e4ea0c549806b9e1adefb8251.js": "/match-up/precache-manifest.11ea7f0e4ea0c549806b9e1adefb8251.js",
+    "service-worker.js": "/match-up/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/match-up/static/css/main.34de6062.chunk.css.map",
+    "static/media/Stu.jpg": "/match-up/static/media/Stu.457556db.jpg",
+    "static/media/andy.jpg": "/match-up/static/media/andy.761ed6d3.jpg",
+    "static/media/dan.jpg": "/match-up/static/media/dan.b6f6971a.jpg",
+    "static/media/dan2.jpg": "/match-up/static/media/dan2.64daaae8.jpg",
+    "static/media/dave.jpg": "/match-up/static/media/dave.f919335f.jpg",
+    "static/media/leon.jpg": "/match-up/static/media/leon.2d1859a4.jpg",
+    "static/media/liam.jpg": "/match-up/static/media/liam.f01fe2a7.jpg",
+    "static/media/logo.png": "/match-up/static/media/logo.738bce8f.png",
+    "static/media/rach.jpg": "/match-up/static/media/rach.f9e34f92.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22c6b2e5.js",
+    "static/js/2.029dc657.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.180bd80d.chunk.js"
+  ]
+}
