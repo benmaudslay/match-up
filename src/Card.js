@@ -16,7 +16,6 @@ const CardStyled = styled.div`
 
 const Logo = styled.img`
   height: 60px;
-  /* opacity: 0.8; */
 `
 
 const CardImg = styled.img`
@@ -36,7 +35,7 @@ class Card extends Component {
         ) : (
           <CardStyled onClick={() => handleSelect(index)}>
             {/* Card: {value} */}
-            <Logo height="60px" src={LogoAsset} alt="Beautiful face here" />
+            <Logo height="60px" src={LogoAsset} alt="No face here" />
           </CardStyled>
         )}
       </>
