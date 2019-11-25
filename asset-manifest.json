@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/match-up/static/css/main.34de6062.chunk.css",
-    "main.js": "/match-up/static/js/main.321f1f2d.chunk.js",
-    "main.js.map": "/match-up/static/js/main.321f1f2d.chunk.js.map",
+    "main.css": "/match-up/static/css/main.f0ada9e7.chunk.css",
+    "main.js": "/match-up/static/js/main.2ed48500.chunk.js",
+    "main.js.map": "/match-up/static/js/main.2ed48500.chunk.js.map",
     "runtime-main.js": "/match-up/static/js/runtime-main.22c6b2e5.js",
     "runtime-main.js.map": "/match-up/static/js/runtime-main.22c6b2e5.js.map",
-    "static/js/2.d40ea8d3.chunk.js": "/match-up/static/js/2.d40ea8d3.chunk.js",
-    "static/js/2.d40ea8d3.chunk.js.map": "/match-up/static/js/2.d40ea8d3.chunk.js.map",
+    "static/js/2.341422a3.chunk.js": "/match-up/static/js/2.341422a3.chunk.js",
+    "static/js/2.341422a3.chunk.js.map": "/match-up/static/js/2.341422a3.chunk.js.map",
     "index.html": "/match-up/index.html",
-    "precache-manifest.d8925b983c543ed6882524cde7dfe866.js": "/match-up/precache-manifest.d8925b983c543ed6882524cde7dfe866.js",
+    "precache-manifest.28288d59a93df3ea9e194a336a07eda0.js": "/match-up/precache-manifest.28288d59a93df3ea9e194a336a07eda0.js",
     "service-worker.js": "/match-up/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/match-up/static/css/main.34de6062.chunk.css.map",
+    "static/css/main.f0ada9e7.chunk.css.map": "/match-up/static/css/main.f0ada9e7.chunk.css.map",
     "static/media/Stu.jpg": "/match-up/static/media/Stu.457556db.jpg",
     "static/media/andy.jpg": "/match-up/static/media/andy.761ed6d3.jpg",
     "static/media/dan.jpg": "/match-up/static/media/dan.b6f6971a.jpg",
     "static/media/dan2.jpg": "/match-up/static/media/dan2.64daaae8.jpg",
     "static/media/dave.jpg": "/match-up/static/media/dave.f919335f.jpg",
+    "static/media/index.css": "/match-up/static/media/gilroy.d90fa984.otf",
     "static/media/leon.jpg": "/match-up/static/media/leon.2d1859a4.jpg",
     "static/media/liam.jpg": "/match-up/static/media/liam.f01fe2a7.jpg",
     "static/media/logo.png": "/match-up/static/media/logo.738bce8f.png",
@@ -23,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.22c6b2e5.js",
-    "static/js/2.d40ea8d3.chunk.js",
-    "static/css/main.34de6062.chunk.css",
-    "static/js/main.321f1f2d.chunk.js"
+    "static/js/2.341422a3.chunk.js",
+    "static/css/main.f0ada9e7.chunk.css",
+    "static/js/main.2ed48500.chunk.js"
   ]
 }
